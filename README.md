@@ -2,5 +2,6 @@
 
 Workshop 01
 
-cd myExpressApp
-npm start
+This repo is for Pre-Course Assignment.
+
+Please head to https://github.com/zyuezheng/cfdsa_repo for workshop submissions.
